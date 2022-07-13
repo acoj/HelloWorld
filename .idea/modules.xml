@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaWeb/JavaWeb.iml" filepath="$PROJECT_DIR$/JavaWeb/JavaWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MavenWeb/MavenWeb.iml" filepath="$PROJECT_DIR$/MavenWeb/MavenWeb.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop1/oop1.iml" filepath="$PROJECT_DIR$/oop1/oop1.iml" />
       <module fileurl="file://$PROJECT_DIR$/planeWar0.1/planeWar0.1.iml" filepath="$PROJECT_DIR$/planeWar0.1/planeWar0.1.iml" />
     </modules>
