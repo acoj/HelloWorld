@@ -9,6 +9,7 @@ public class Hello {
         System.out.println("online update");
         System.out.println("other update");
         System.out.println("test ssh");
+        System.out.println("test ssh2");
     }
 
 
